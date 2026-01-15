@@ -1,8 +1,14 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Avdhut Patole</h1>
-<p align="center">
-  <img src="asset/giphy.gif"alt="Coding Animation" width="400" />
-  </p>
+<table>
+  <tr>
+    <td>
+      <h1>Hi There 👋, I'm Avdhut Patole</h1>
+      <h3>A passionate frontend developer from India</h3>
+    </td>
+    <td>
+      <img src="asset/giphy.gif" alt="Coding Animation" width="300" />
+    </td>
+  </tr>
+</table>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React Js**
